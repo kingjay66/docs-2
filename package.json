@@ -3,7 +3,7 @@
         "lint": "powershell scripts/lintNodejsCodeSamples.ps1"
     },
     "dependencies": {
-        "ravendb": "^5.2.5"
+        "ravendb": "^5.4.0"
     },
     "engines": {
         "node": ">=14.0.0"
